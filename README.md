@@ -4,7 +4,7 @@
 This tool takes in text files put in the `txts` directory and generates a heatmap of keystrokes it took to type the file.
 
 ## Installation & Execution
-1. Run `git clone https://EthanTock/keystroke_counter <directory>`, with `<directory>` being the directory you want to clone this repository into.
+1. Run `git clone https://github.com/EthanTock/keystroke_counter.git <directory>`, with `<directory>` being the directory you want to clone this repository into.
 2. Put the text file you wish to generate a heatmap out of into the `txts` directory.
 3. From your defined `<directory>`, run main.py.
 
